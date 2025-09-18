@@ -8,3 +8,11 @@ tests/
 README.md
 .phpunit.result.cache
 .DS_Store
+/app
+*.log
+.nyc_output
+coverage/
+.vscode/
+.idea/
+docker-compose.yml
+Dockerfile*
