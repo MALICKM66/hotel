@@ -1,0 +1,10 @@
+vendor/
+node_modules/
+.git/
+.env*
+storage/logs/
+bootstrap/cache/
+tests/
+README.md
+.phpunit.result.cache
+.DS_Store
